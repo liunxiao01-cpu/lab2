@@ -1,0 +1,34 @@
+body {
+    background: gray;
+    font-family: sans-serif;
+    margin: 100px;
+}
+
+div {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+button {
+    border-radius: 30px;
+    border: None;
+    padding: 10px;
+}
+
+button:hover{
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+
+.a{
+    background-color: green;
+}
+.b{
+    background-color: orange;
+}
+.c{
+    background-color: purple;
+}
